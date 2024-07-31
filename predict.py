@@ -28,4 +28,5 @@ def get_label(prediction):
         return 'arrow-down'
     return 'arrow-left'
 
+print(get_label(prediction))
 
