@@ -7,7 +7,7 @@ The traning and validation dataset is available in the root folder named `datase
 It contains **16 tranining images** and **4 validation/test images**.
 
 ## Requirements
-```py
+```shell
 pip install tensorflow keras PIL numpy
 ```
 
